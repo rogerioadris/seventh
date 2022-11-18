@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "Seventh.Desafio.Api",
+			"path": "./Seventh.Desafio.Api"
+		},
+		{
+			"name": "Seventh.Desafio.Domain",
+			"path": "./Seventh.Desafio.Domain"
+		},
+		{
+			"name": "Seventh.Desafio.Infra",
+			"path": "./Seventh.Desafio.Infra"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.vs": true,
+			"**/.vscode": true,
+			"**/bin": true,
+			"**/obj": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true
+		}
+	}
+}
